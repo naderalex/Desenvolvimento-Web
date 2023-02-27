@@ -1,0 +1,28 @@
+Python
+------
+referência: https://www.python.org/ - https://tecnoblog.net/responde/o-que-e-python-guia-para-iniciantes/
+relacão: ferramenta para desenvolver
+
+
+Git
+------
+referência: https://git-scm.com/ - https://www.atlassian.com/br/git/tutorials/what-is-git
+relacão: garantir a integridade criptográficado a ser produzido
+
+
+VsCode
+------
+referência:https://code.visualstudio.com/ - https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar
+relacão: editor de código-fonte a ser utilizado
+
+
+SqLite Browser
+--------------
+referência: https://sqlitebrowser.org/ - http://www.linhadecodigo.com.br/artigo/2215/trabalhando-com-banco-de-dados-sqlite.aspx
+relacão: banco de dados a se utilizado
+
+
+Navegadores
+-----------
+referência: https://www.google.com/ - https://www.mozilla.org/ 
+relacão: navegadores a serem utilizados
